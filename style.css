@@ -22,7 +22,7 @@ hr {
 }
 
 .buffer {
-  height: 8rem;
+  height: 12rem;
 }
 
 .btn {
@@ -37,7 +37,7 @@ hr {
 
 .btn-primary:hover {
   background-color: #ee4908b7;
-  border-color: #160702;
+  border-color: #00000067;
 }
 
 .btn-xl {
