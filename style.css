@@ -37,9 +37,10 @@ hr {
 }
 
 .btn-primary:hover {
-  background-color: #a8340662;
-  border-color: #f1eeecef;
+  background-color: #b34b10;
+  border-color: #adaaa8;
 }
+
 
 .btn-xl {
   padding: 1rem 2rem;
