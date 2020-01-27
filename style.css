@@ -12,7 +12,7 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: rgb(241, 229, 233);
+  color: #e2dbdb;
 }
 
 hr {
@@ -22,11 +22,12 @@ hr {
 }
 
 .buffer {
-  height: 12rem;
+  height: 10rem;
 }
 
 .btn {
-  border-radius: 30px;
+  font-weight: 700;
+  border-radius: 300px;
   text-transform: uppercase;
 }
 
@@ -36,8 +37,8 @@ hr {
 }
 
 .btn-primary:hover {
-  background-color: #ee4908b7;
-  border-color: #00000067;
+  background-color: #a83406a2;
+  border-color: #dbd6d4a2;
 }
 
 .btn-xl {
